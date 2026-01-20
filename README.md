@@ -11,7 +11,7 @@ Aplikasi ini adalah sistem E-Commerce lengkap (Frontend Flutter & Backend Node.j
 ## 🛠️ Prasyarat (Third-Party Services)
 Sebelum menjalankan aplikasi, pastikan Anda memiliki akun dan kredensial untuk layanan berikut:
 1. **Supabase**: Untuk Database PostgreSQL dan Image Storage.
-2. **RajaOngkir (Pro/Starter)**: Untuk kalkulasi biaya pengiriman real-time.
+2. **RajaOngkir (Pro/Starter)**: Untuk get data kota, kecamatan, kelurahan di jawa timur.
 3. **Midtrans (Sandbox/Production)**: Untuk gateway pembayaran digital.
 
 ---
