@@ -1,0 +1,28 @@
+# General
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Backend (Node.js)
+backend/node_modules/
+backend/npm-debug.log
+backend/.env
+backend/coverage/
+
+# Frontend (Flutter)
+frontend/build/
+frontend/.dart_tool/
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+frontend/.metadata
+frontend/.packages
+frontend/android/local.properties
+frontend/ios/.generated/
+frontend/linux/flutter/ephemeral/
+frontend/macos/Flutter/ephemeral/
+frontend/windows/flutter/ephemeral/
+
+# Secrets
+.env
+*.env
